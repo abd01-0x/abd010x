@@ -7,7 +7,7 @@ I quit that for data, for web2 and web3 data analytics, while learning still tow
 - 🌱 I’m currently learning everything about web3/blockchain data by researching protocol documentation and analyzing its data via Dune Analytics and Flipside Crypto.
 - 💞️ I’m looking to collaborate with other data professionals on predictive modeling and natural language processing.
 - 📫 You can reach me via [Twitter](https://twitter.com/abd010x) or [LinkedIn](https://www.linkedin.com/in/abolaji-david/)
-- *Writeups can be found on my [Linktree](https://linktr.ee/abd010x)*
+*Writeups can be found on my [Linktree](https://linktr.ee/abd010x)
 
 ## Web2 tools stack
 * Excel
