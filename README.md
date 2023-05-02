@@ -1,4 +1,10 @@
-![Buzz Lightyear](https://user-images.githubusercontent.com/115952619/199022607-14c28d14-8893-44ab-b408-b89c3cf6e2f8.jpg)
+Hi there, my full names are Adeoye Abolaji David (abd for short) and I was a financial accountant up until 2022. 
+I quit that for data, for web2 and web3 data analytics, while venturing still towards being a data engineer. 
+
+I am currently seeking data or blockchain analysis roles, but in the mean time, working on a project. 
+
+Being new to the data field and wanting to understand everything in-depth, i decided to kickoff a project
+
 
 - 👋 Hi, I’m @abd01-0x
 - 👀 I’m interested in data and blockchain analytics, coming from the accountancy profession.
