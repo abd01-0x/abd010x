@@ -1,10 +1,8 @@
-Hi there, my full names are Adeoye Abolaji David (abd for short) and I was a financial accountant up until 2022. 
+Hi there 👋, my full names are Adeoye Abolaji David (abd for short) and I was a financial accountant up until 2022. 
 I quit that for data, for web2 and web3 data analytics, while venturing still towards being a data engineer. 
 
 I am currently seeking data or blockchain analysis roles, but in the mean time, working on a project. 
-
-Being new to the data field and wanting to understand everything in-depth, i decided to kickoff a project
-
+What project? To build my own AI, which of course means designing & developing a database/data warehouse, scraping and loading data into the DB/DW, applying predictive statistics thinking, amongst other sub-tasks that goes into building an AI.   
 
 - 👋 Hi, I’m @abd01-0x
 - 👀 I’m interested in data and blockchain analytics, coming from the accountancy profession.
