@@ -1,4 +1,5 @@
 Hi there 👋, my name is Adeoye Abolaji David (abd for short) and I was a chartered financial accountant up until 2022. 
+
 I quit that for data, for web2 and web3 data analytics, while learning still towards being a data engineer. 
 
 
@@ -24,6 +25,6 @@ I quit that for data, for web2 and web3 data analytics, while learning still tow
 * Etherscan (and other blockchain expolrers)
 
 <!---
-abd01-0x/abd01-0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+abd010x/abd01-0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
