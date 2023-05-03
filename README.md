@@ -4,6 +4,7 @@ I decided to transition into the tech space though, into web2 and web3 data anal
 I am currently seeking open positions as a data or blockchain analyst. 
 
 I could add value to any organization in various ways, inclusive of; 
+* Financial analysis matters inclusive of building robust financial models. See some of [my projects here](https://drive.google.com/drive/folders/1Gkt7Bm68O7Jy5mjga2H9FFFuvw_23RjD?usp=share_link).
 * Data analysis in SQL and Power BI complemented by delightful dashboards 
 * Research on blockchain protocols via Dune Analytics e.g. [UNI Digestible](https://dune.com/abd010x/uni-digestible)
 * Database design & development
