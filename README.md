@@ -12,7 +12,7 @@ I could add value to any organization in various ways, inclusive of;
 
 
 ## Interesting stuffs about me
-- 🌱 I’m developing a Database/Data warehouse towards building a predictive AI. This includes designing & developing a database, scraping and loading data into the DB/DW, applying predictive modeling thinking, etc. This is for a product/startup idea I have. 
+- 🌱 I recently built a Database towards building a predictive AI model. This includes designing a DB schema, developing the DB in Postgre, scraping and loading data into the DB, applying predictive modeling thinking, etc. This is for a product/startup idea I have. 
 - 🌱 I’m building a Substack Newsletter focused on exploring and explaining Web3 in relatable, digestible ways to non-techies. Involves researching the smart contract docs and analyzing its data via Dune Analytics and Flipside Crypto. Subscribe here at [Web3 Digestible](https://web3digestible.substack.com/).
 - 💞️ I’m open to collaboration with other data professionals on predictive modeling and natural language processing.
 - 📫 You can reach me via [Twitter](https://twitter.com/abd010x) or [LinkedIn](https://www.linkedin.com/in/abolaji-david/)
