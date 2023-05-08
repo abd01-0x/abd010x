@@ -5,10 +5,9 @@ I am currently seeking open positions in a startup as a data or blockchain analy
 
 I could add value to any organization in various ways, inclusive of; 
 * Financial analysis inclusive of building robust financial models. See some of [my projects here](https://drive.google.com/drive/folders/1Gkt7Bm68O7Jy5mjga2H9FFFuvw_23RjD?usp=share_link).
-* Data analysis using Excel and SQL complemented by delightful dashboards in Power BI. 
-* Blockchain research analysis via Dune Analytics e.g. [UNI Digestible](https://dune.com/abd010x/uni-digestible)
-* Database design & development
-* Research on data & AI matters.   
+* Data analysis using Excel & SQL complemented by delightful dashboards in Power BI & Tableau. See sample projects here.  
+* Blockchain research and analysis via Dune Analytics e.g. [UNI Digestible](https://dune.com/abd010x/uni-digestible)
+* Research on data & AI matters, inclusive of database design & development.   
 
 
 ## Interesting stuffs about me
