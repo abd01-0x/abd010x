@@ -4,7 +4,7 @@ I decided to transition into the tech space though, into web2 and web3 data anal
 I am currently seeking open positions in a startup as a data or blockchain analyst. 
 
 I could add value to any organization in various ways, inclusive of; 
-* Financial analysis matters inclusive of building robust financial models. See some of [my projects here](https://drive.google.com/drive/folders/1Gkt7Bm68O7Jy5mjga2H9FFFuvw_23RjD?usp=share_link).
+* Financial analysis inclusive of building robust financial models. See some of [my projects here](https://drive.google.com/drive/folders/1Gkt7Bm68O7Jy5mjga2H9FFFuvw_23RjD?usp=share_link).
 * Data analysis using Excel and SQL complemented by delightful dashboards in Power BI. 
 * Blockchain research analysis via Dune Analytics e.g. [UNI Digestible](https://dune.com/abd010x/uni-digestible)
 * Database design & development
@@ -12,23 +12,10 @@ I could add value to any organization in various ways, inclusive of;
 
 
 ## Interesting stuffs about me
-- 🌱 I recently built a Database towards building a predictive AI model. This includes designing a DB schema, developing the DB in Postgre, scraping and loading data into the DB, applying predictive modeling thinking, etc. This is for a product/startup idea I have. 
-- 🌱 I’m building a Substack Newsletter focused on exploring and explaining Web3 in relatable, digestible ways to non-techies. Involves researching the smart contract docs and analyzing its data via Dune Analytics and Flipside Crypto. Subscribe here at [Web3 Digestible](https://web3digestible.substack.com/).
+- 🌱 I recently built a Database towards building a predictive AI model. This is for a product/startup idea I have. 
+- 🌱 I’m building a Substack Newsletter focused on exploring and explaining Web3 in relatable, familiar ways to non-techies. Subscribe here at [Web3 Digestible](https://web3digestible.substack.com/).
 - 💞️ I’m open to collaboration with other data professionals on predictive modeling and natural language processing.
 - 📫 You can reach me via [Twitter](https://twitter.com/abd010x) or [LinkedIn](https://www.linkedin.com/in/abolaji-david/) while some of my writeups can be found on my [Linktree](https://linktr.ee/abd010x)
-
-
-## My tools stack
-#### Web2
-* Excel
-* SQL
-* Power BI
-* Tableau
-* Python
-#### Web3 
-* Dune analytics (DuneSQL (Trino))
-* Flipside Crypto
-* Etherscan (and other blockchain expolrers)
 
 <!---
 abd010x/abd01-0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
