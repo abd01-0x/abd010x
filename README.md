@@ -1,9 +1,9 @@
 Hi there 👋, my name is Adeoye Abolaji David (abd for short) and I am a Chartered Accountant turned Data/Blockchain analyst. 
 
-I really enjoy adding value, especially in the area of data/blockchain storytelling. Seemsome of my projects below 
-* Data Storytelling using SQL, Power BI, and Tableau. Here  
-* Blockchain Storyteling on Dune. Here [UNI Digestible](https://dune.com/abd010x/uni-digestible)
-* Als very curious on Data, AI matters, inclusive of database design & development, and Generative AI.   
+I really enjoy adding value, learning and sharing on my data journey. For now, I am focused on Data/Blockchain storytelling. SOme projects are highlighted belowl 
+* Data Storytelling using SQL, Power BI, and Tableau. Hosted here.   
+* Blockchain Storyteling on [Dune](https://dune.com/abd010x)
+* Also very curious on Data and AI matters, inclusive of database design & development, and Generative AI.   
 
 
 ## Interesting stuffs about me
